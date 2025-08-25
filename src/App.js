@@ -51,6 +51,7 @@ const App = () => {
 
   return (
     <div className="calculator">
+      <h1 style={{ textAlign: 'center', marginBottom: '30px', color: 'cyan' }}>FlexiCalc-Core</h1>
       <Display value={input} />
       <div className="buttons">
         <Button label="C" onClick={handleClear} />
