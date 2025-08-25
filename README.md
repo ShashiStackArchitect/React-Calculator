@@ -53,4 +53,6 @@ cd react-calculator
 npm install
 npm start
 
+🔗 [Live Demo](https://flexicalc-core.netlify.app)
+
 
